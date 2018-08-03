@@ -5,7 +5,7 @@ $email = $_POST['email'];
 
 $form = "PremiseHQ";
 
-$to = "rdowla@gmail.com, aminhossain@gmail.com";
+$to = "mo7rul@gmail.com";
 
 $subject = "Demo Request";
 $message = "There is a new demo request in http://premisesaas.com from email: ".$email;
